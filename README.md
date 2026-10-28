@@ -43,8 +43,8 @@ Building a **benchmark for personalized agents**. [Collaborators welcome →](ma
 
 <p align="center">
 <picture>
-  <source media="(max-width: 600px)" srcset="assets/brautigan-forest-mobile.svg">
-  <img src="assets/brautigan-forest.svg" width="480" alt="I like to think (right now, please!) of a cybernetic forest filled with pines and electronics where deer stroll peacefully past computers as if they were flowers with spinning blossoms.">
+  <source media="(max-width: 600px)" srcset="assets/brautigan-forest-trimmed-mobile.svg">
+  <img src="assets/brautigan-forest-trimmed.svg" width="480" alt="of a cybernetic forest filled with pines and electronics where deer stroll peacefully past computers as if they were flowers with spinning blossoms.">
 </picture>
 <br><sub>— Richard Brautigan · <a href="https://www.diggers.org/digpaps68/allwat68.html"><em>All Watched Over by Machines of Loving Grace</em></a></sub>
 </p>
