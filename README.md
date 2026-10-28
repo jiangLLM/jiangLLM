@@ -43,8 +43,8 @@ Building a **benchmark for personalized agents**. [Collaborators welcome →](ma
 
 <p align="center">
 <picture>
-  <source media="(max-width: 600px)" srcset="assets/brautigan-mobile.svg">
-  <img src="assets/brautigan.svg" width="700" alt="where deer stroll peacefully / past computers / as if they were flowers / with spinning blossoms.">
+  <source media="(max-width: 600px)" srcset="assets/brautigan-compact-mobile.svg">
+  <img src="assets/brautigan-compact.svg" width="480" alt="where deer stroll peacefully / past computers / as if they were flowers / with spinning blossoms.">
 </picture>
-<br><sub>Richard Brautigan<br><a href="https://www.diggers.org/digpaps68/allwat68.html"><em>All Watched Over by Machines of Loving Grace</em></a></sub>
+<br><sub>— Richard Brautigan · <a href="https://www.diggers.org/digpaps68/allwat68.html"><em>All Watched Over by Machines of Loving Grace</em></a></sub>
 </p>
