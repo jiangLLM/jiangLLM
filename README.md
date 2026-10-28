@@ -2,7 +2,7 @@
 
 <img src="assets/hello-blue.svg" width="520" height="40" alt="Hi, I'm Jiang Wu. Welcome to my GitHub.">
 
-<p>👋 My research focuses on <strong>personalized agents</strong>, <strong>LLMs</strong>, and <strong>recommendation</strong>.</p>
+<p>👋 My research focuses on <strong>personalized LLMs</strong>, <strong>personalized agents</strong>, and <strong>personalized recommendation</strong>.</p>
 
 <p><code>🧠 Agent Memory</code> <code>🎯 Personalization</code> <code>🎓 USC · 2020</code></p>
 
@@ -17,8 +17,8 @@
 #### 🔬 Research
 
 - **Personalized LLMs** — post-training, lightweight adaptation, and preference-guided decoding.
-- **Agent memory** — learning what to remember and when to reuse it.
-- **Recommendation** — ranking and next-item prediction.
+- **Personalized Agents** — memory for retaining useful context and reusing experience.
+- **Personalized Recommendation** — ranking and next-item prediction.
 
 #### 🌱 Currently
 
@@ -41,4 +41,4 @@ Building a **benchmark for personalized agents**. [Collaborators welcome →](ma
 </tr>
 </table>
 
-<p align="center"><sub>「水面清圓，一一風荷舉。」</sub></p>
+<p align="center">山一程，水一程，身向榆關那畔行，夜深千帳燈。<br>風一更，雪一更，聒碎鄉心夢不成，故園無此聲。<br><sub>納蘭性德 ·《長相思》</sub></p>
