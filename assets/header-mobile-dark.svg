@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="232" viewBox="0 0 480 232" role="img" aria-labelledby="title desc">
+  <title id="title">Hi, I’m Jiang Wu.</title>
+  <desc id="desc">Personalized intelligence, from models to agents.</desc>
+  <rect width="480" height="232" rx="16" fill="#171f2c"/>
+  <path d="M28 31h22" stroke="#dcaf72" stroke-width="3"/>
+  <text x="63" y="35" font-family="Arial,Helvetica,sans-serif" font-size="10" font-weight="600" letter-spacing="2" fill="#a8b5ca">A PERSONAL RESEARCH SPACE</text>
+  <text x="27" y="104" font-family="Georgia,'Times New Roman',serif" font-size="46" letter-spacing="-1.4" fill="#f1eadc">Hi, I’m Jiang Wu.</text>
+  <text x="29" y="148" font-family="Arial,Helvetica,sans-serif" font-size="20" fill="#a8b5ca">Personalized intelligence,</text>
+  <text x="29" y="178" font-family="Arial,Helvetica,sans-serif" font-size="20" fill="#a8b5ca">from models to agents.</text>
+  <path d="M29 207h259" stroke="#354155"/>
+  <g fill="none" stroke="#354155">
+    <circle cx="396" cy="168" r="40"/>
+    <ellipse cx="396" cy="168" rx="59" ry="25" transform="rotate(-35 396 168)"/>
+    <ellipse cx="396" cy="168" rx="48" ry="28" transform="rotate(40 396 168)"/>
+  </g>
+  <path d="M343 194C351 144 371 143 389 161S421 203 449 132" fill="none" stroke="#8dafdc" stroke-width="2"/>
+  <path d="M352 135C370 189 400 181 434 200" fill="none" stroke="#dcaf72" stroke-width="1.5"/>
+  <circle cx="389" cy="161" r="5" fill="#8dafdc"/>
+  <circle cx="352" cy="135" r="3" fill="#dcaf72"/>
+  <circle cx="434" cy="200" r="3" fill="#dcaf72"/>
+</svg>
