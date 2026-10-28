@@ -41,4 +41,9 @@ Building a **benchmark for personalized agents**. [Collaborators welcome →](ma
 </tr>
 </table>
 
-<p align="center">山一程，水一程，身向榆關那畔行，夜深千帳燈。<br>風一更，雪一更，聒碎鄉心夢不成，故園無此聲。<br><sub>納蘭性德 ·《長相思》</sub></p>
+<p align="center">
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/changxiangsi-mobile.svg">
+  <img src="assets/changxiangsi.svg" width="700" alt="山一程，水一程，身向榆關那畔行，夜深千帳燈。風一更，雪一更，聒碎鄉心夢不成，故園無此聲。—— 納蘭性德《長相思》">
+</picture>
+</p>
