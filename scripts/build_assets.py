@@ -43,6 +43,28 @@ for theme, colors in {
 </svg>
 '''
     (ASSETS / f"header-{theme}.svg").write_text(svg)
+    (ASSETS / f"header-mobile-{theme}.svg").write_text(f'''<svg xmlns="http://www.w3.org/2000/svg" width="480" height="232" viewBox="0 0 480 232" role="img" aria-labelledby="title desc">
+  <title id="title">Hi, I’m Jiang Wu.</title>
+  <desc id="desc">Personalized intelligence, from models to agents.</desc>
+  <rect width="480" height="232" rx="16" fill="{bg}"/>
+  <path d="M28 31h22" stroke="{gold}" stroke-width="3"/>
+  <text x="63" y="35" font-family="Arial,Helvetica,sans-serif" font-size="10" font-weight="600" letter-spacing="2" fill="{muted}">A PERSONAL RESEARCH SPACE</text>
+  <text x="27" y="104" font-family="Georgia,'Times New Roman',serif" font-size="46" letter-spacing="-1.4" fill="{ink}">Hi, I’m Jiang Wu.</text>
+  <text x="29" y="148" font-family="Arial,Helvetica,sans-serif" font-size="20" fill="{muted}">Personalized intelligence,</text>
+  <text x="29" y="178" font-family="Arial,Helvetica,sans-serif" font-size="20" fill="{muted}">from models to agents.</text>
+  <path d="M29 207h259" stroke="{line}"/>
+  <g fill="none" stroke="{line}">
+    <circle cx="396" cy="168" r="40"/>
+    <ellipse cx="396" cy="168" rx="59" ry="25" transform="rotate(-35 396 168)"/>
+    <ellipse cx="396" cy="168" rx="48" ry="28" transform="rotate(40 396 168)"/>
+  </g>
+  <path d="M343 194C351 144 371 143 389 161S421 203 449 132" fill="none" stroke="{blue}" stroke-width="2"/>
+  <path d="M352 135C370 189 400 181 434 200" fill="none" stroke="{gold}" stroke-width="1.5"/>
+  <circle cx="389" cy="161" r="5" fill="{blue}"/>
+  <circle cx="352" cy="135" r="3" fill="{gold}"/>
+  <circle cx="434" cy="200" r="3" fill="{gold}"/>
+</svg>
+''')
 
 for slug, label, width in [
     ("website", "Website", 100),

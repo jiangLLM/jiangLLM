@@ -1,5 +1,7 @@
 <p>
 <picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/header-mobile-dark.svg">
+  <source media="(max-width: 600px)" srcset="assets/header-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
   <img src="assets/header-light.svg" width="100%" alt="Hi, I’m Jiang Wu. Personalized intelligence, from models to agents.">
@@ -7,8 +9,8 @@
 </p>
 
 <p align="center">
-  <a href="https://jiangllm.github.io/"><img src="assets/link-website.svg" height="28" alt="Personal website"></a>&nbsp;
-  <a href="https://scholar.google.com/citations?user=lbVaup8AAAAJ&amp;hl=en"><img src="assets/link-scholar.svg" height="28" alt="Google Scholar"></a>&nbsp;
+  <a href="https://jiangllm.github.io/"><img src="assets/link-website.svg" height="28" alt="Personal website"></a>
+  <a href="https://scholar.google.com/citations?user=lbVaup8AAAAJ&amp;hl=en"><img src="assets/link-scholar.svg" height="28" alt="Google Scholar"></a>
   <a href="mailto:jiangwu@jiangwu.io"><img src="assets/link-email.svg" height="28" alt="Email Jiang Wu"></a>
 </p>
 
