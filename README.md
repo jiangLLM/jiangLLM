@@ -2,9 +2,9 @@
 
 <img src="assets/hello-blue.svg" width="520" height="40" alt="Hi, I'm Jiang Wu. Welcome to my GitHub.">
 
-<p>👋 My research focuses on <strong>personalized LLMs</strong>, <strong>personalized agents</strong>, and <strong>personalized recommendation</strong>.</p>
+<p>👋 My research focuses on <strong>personalized agents</strong>, <strong>LLMs</strong>, and <strong>recommendation</strong>.</p>
 
-<p><code>🧠 Agent Memory</code> <code>🎯 Personalization</code> <code>🎓 USC · 2020</code></p>
+<p><code>🤖 Personalized LLMs</code> <code>🧠 Personalized Agents</code> <code>🎯 Personalized Recommendation</code> <code>🎓 USC · 2020</code></p>
 
 <p><a href="https://jiangllm.github.io/">Website</a> &nbsp;·&nbsp; <a href="https://scholar.google.com/citations?user=lbVaup8AAAAJ&amp;hl=en">Google Scholar</a> &nbsp;·&nbsp; <a href="mailto:jiangwu@jiangwu.io">Email</a></p>
 
@@ -17,8 +17,8 @@
 #### 🔬 Research
 
 - **Personalized LLMs** — post-training, lightweight adaptation, and preference-guided decoding.
-- **Personalized Agents** — memory for retaining useful context and reusing experience.
-- **Personalized Recommendation** — ranking and next-item prediction.
+- **Agent memory** — learning what to remember and when to reuse it.
+- **Recommendation** — ranking and next-item prediction.
 
 #### 🌱 Currently
 
