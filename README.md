@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hello.svg" width="520" height="50" alt="Hi, I'm Jiang Wu.">
+<img src="assets/hello-mint.svg" width="520" height="50" alt="Hi, I'm Jiang Wu.">
 
 <p>My research focuses on <strong>personalized agents</strong>, <strong>LLMs</strong>, and <strong>recommendation</strong>.</p>
 
