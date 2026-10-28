@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="40" viewBox="0 0 520 40" role="img" aria-labelledby="title">
+  <title id="title">Hi, I'm Jiang Wu. Welcome to my GitHub.</title>
+  <style>
+    .greeting { fill: #0969da; }
+    .reveal { animation: type 28s steps(42, end) infinite; }
+    @keyframes type { 0% { width: 0; } 10%, 100% { width: 520px; } }
+    @media (prefers-color-scheme: dark) { .greeting { fill: #58a6ff; } }
+    @media (prefers-reduced-motion: reduce) { .reveal { animation: none; } }
+  </style>
+  <defs><clipPath id="typing"><rect class="reveal" width="520" height="40"/></clipPath></defs>
+  <text class="greeting" x="260" y="26" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="17" font-weight="600" clip-path="url(#typing)">Hi, I'm Jiang Wu. Welcome to my GitHub.</text>
+</svg>
